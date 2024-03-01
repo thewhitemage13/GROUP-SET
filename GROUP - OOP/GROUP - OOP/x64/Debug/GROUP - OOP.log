@@ -1,0 +1,38 @@
+﻿  Date.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: 
+  (компиляция исходного файла "Date.cpp")
+  
+  Fraction.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: 
+  (компиляция исходного файла "Fraction.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(69,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(83,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GROUP - OOP.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: 
+  (компиляция исходного файла "GROUP%20-%20OOP.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(21,21): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(22,22): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  Group.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: 
+  (компиляция исходного файла "Group.cpp")
+  
+  Student.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(6,1): warning C4635: 
+  (компиляция исходного файла "Student.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.cpp(89,43): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(116): warning C4717: operator==: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(101): warning C4717: operator<=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(96): warning C4717: operator>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(106): warning C4717: operator>=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(111): warning C4717: operator!=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(91): warning C4717: operator<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  GROUP - OOP.vcxproj -> D:\C++\C++ OOP\GROUP - OOP\x64\Debug\GROUP - OOP.exe
